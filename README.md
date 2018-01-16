@@ -6,14 +6,14 @@ TorBox is the easy and secure way to host your own Tor .onion hidden service on 
 
 You can connect TorBox to any Ethernet port of any router anywhere in the world and without forwarding any ports or changing any domain name records etc. it will always be accessible by it's current .onion hostname.
 
-<b>Requirements:</b>
+<b>Requirements:</b><br>
 
 Raspberry Pi Model 3 B<br><br>
 Clean install of Raspbian Lite (With the standard user: pi and password: raspberry and no updates)<br><br>
 SSH Initially enabled<br><br>
-Internet connection via Ethernet<br>
+Internet connection via Ethernet<br><br>
 
-<b>Installation:</b>
+<b>Installation:</b><br>
 
 TorBox is designed to be installed headless.
 
@@ -23,7 +23,7 @@ From the terminal run: wget https://github.com/eclipsewebservices/torbox-rpi/raw
 From the terminal run: unzip torbox-rpi.zip<br><br>
 From the terminal run: cd torbox-rpi<br><br>
 From the terminal run: chmod 755 install.sh<br><br>
-From the terminal run: sudo ./install.sh<br>
+From the terminal run: sudo ./install.sh<br><br>
 
 For security there is no access to TorBox from within your local area network, TorBox can only be accessed by using the Tor browser over the Tor network. To login to the underlying operating system you will have to physically connect a keyboard and monitor and use the username: pi and your current TorBox system administration password.
 
