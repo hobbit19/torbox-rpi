@@ -4,7 +4,7 @@
 
 TorBox is the easy and secure way to host your own Tor .onion hidden service on your own private dedicated portable hardware with a simple to use content management system for publishing your anonymous, dynamic and responsive website or blog etc. and a graphical system administration tool for changing the .onion hostname etc.
 
-You can connect TorBox to any Ethernet port of any router anywhere in the world and without forwarding any ports or changing any domain name records etc. it will always be accessible by it's current .onion hostname.
+You can connect TorBox to any Ethernet port of any router anywhere in the world and without forwarding any ports or changing any domain name records etc. it will always be accessible by it's current .onion hostname.<br>
 
 <b>Requirements:</b><br>
 
