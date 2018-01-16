@@ -17,11 +17,11 @@ Internet connection via Ethernet<br>
 
 TorBox is designed to be installed headless.
 
-SSH To your Raspberry Pi<br>
-From the terminal run: wget github-link/torbox-rpi.zip<br>
-From the terminal run: unzip torbox-rpi.zip<br>
-From the terminal run: cd torbox-rpi<br>
-From the terminal run: chmod 755 install.sh<br>
+SSH To your Raspberry Pi home directory<br><br><br>
+From the terminal run: wget github-link/torbox-rpi.zip (If you have already downloaded the zip file to your home directory skip this step)<br><br><br>
+From the terminal run: unzip torbox-rpi.zip<br><br>
+From the terminal run: cd torbox-rpi<br><br>
+From the terminal run: chmod 755 install.sh<br><br>
 From the terminal run: sudo ./install.sh<br>
 
 For security there is no access to TorBox from within your local area network, TorBox can only be accessed by using the Tor browser over the Tor network. To login to the underlying operating system you will have to physically connect a keyboard and monitor and use the username: pi and your current TorBox system administration password.
