@@ -9,7 +9,7 @@ You can connect TorBox to any Ethernet port of any router anywhere in the world 
 <b>Requirements:</b>
 
 Raspberry Pi Model 3 B<br>
-Clean install of Raspbian Lite (No updates)<br>
+Clean install of Raspbian Lite (With the standard user: pi and password: raspberry and no updates)<br>
 SSH Initially enabled<br>
 Internet connection via Ethernet<br>
 
@@ -17,8 +17,8 @@ Internet connection via Ethernet<br>
 
 TorBox is designed to be installed headless.
 
-SSH To your Raspberry Pi home directory<br><br><br>
-From the terminal run: wget github-link/torbox-rpi.zip (If you have already downloaded the zip file to your home directory skip this step)<br><br><br>
+SSH To your Raspberry Pi home directory<br><br>
+From the terminal run: wget github-link/torbox-rpi.zip (If you have already downloaded the zip file to your home directory skip this step)<br><br>
 From the terminal run: unzip torbox-rpi.zip<br><br>
 From the terminal run: cd torbox-rpi<br><br>
 From the terminal run: chmod 755 install.sh<br><br>
