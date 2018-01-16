@@ -18,7 +18,8 @@ Internet connection via Ethernet<br>
 TorBox is designed to be installed headless.
 
 SSH To your Raspberry Pi home directory<br><br>
-From the terminal run: wget github-link/torbox-rpi.zip (If you have already downloaded the zip file to your home directory skip this step)<br><br>
+(If you have already downloaded the zip file to your home directory you can skip the step below)<br><br>
+From the terminal run: wget https://github.com/eclipsewebservices/torbox-rpi/raw/master/torbox-rpi.zip<br><br>
 From the terminal run: unzip torbox-rpi.zip<br><br>
 From the terminal run: cd torbox-rpi<br><br>
 From the terminal run: chmod 755 install.sh<br><br>
