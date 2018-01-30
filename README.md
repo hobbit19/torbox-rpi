@@ -11,7 +11,7 @@ You can connect TorBox to any Ethernet port of any router anywhere in the world 
 <b>Requirements:</b><br>
 
 Raspberry Pi Model 3 B<br><br>
-Clean install of Raspbian Lite (With the standard user: pi and password: raspberry and no updates)<br><br>
+Clean install of Raspbian Lite (With the standard user: pi and password: raspberry and no updates) For a guide on how to do this please use this <a href="https://hackernoon.com/raspberry-pi-headless-install-462ccabd75d0" target="_blank">link</a><br><br>
 SSH Initially enabled<br><br>
 Internet connection via Ethernet<br><br>
 
